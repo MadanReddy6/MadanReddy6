@@ -1,82 +1,144 @@
-<!-- Banner -->
-<h1 align="center">👋 Hi, I'm Madan Mohan Reddy</h1>
-<h3 align="center">Aspiring Data Scientist & Full-Stack Developer</h3>
+<h1 align="center">Hi 👋, I'm Madan Reddy</h1>
 
----
 
-## 🚀 About Me
-- 🎓 MBA in Business Data Analytics  
-- 💻 Passionate about Data Analytics, Machine Learning, and Web Development  
-- 📊 Love turning data into insights  
-- 🌱 Currently learning **Advanced Python**, **Flask**, & **SQL Optimization**  
-- ⚽ Fun Fact: I led a football tournament as captain 😉
-
----
-
-## 🛠️ Tech Stack & Skills
-
-### 💻 **Programming Languages**
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</p>
-
-### 📊 **Data Tools**
-<p>
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-</p>
-
-### 🧠 **Machine Learning**
-<p>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-</p>
-
-### 🌐 **Web Development**
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-</p>
-
----
-
-## 📂 Featured Projects
-
-### 🔹 **LoanZone – Loan Default Prediction Website**
-- 💡 Predict loan defaults using Decision Trees  
-- 🌐 Built with **Python, Flask, HTML, CSS, Bootstrap**  
-- 📊 Helps loan institutes analyze user financial data  
-
----
-
-## 📈 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MadanReddy6&show_icons=true&theme=tokyonight" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadanReddy6&layout=compact&theme=tokyonight" height="170" />
-</p>
-
----
-
-## 🔥 GitHub Streak  
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=MadanReddy6&theme=tokyonight" />
-</p>
-
----
-
-## 🌐 Connect With Me
-<p>
-  <a href="https://www.linkedin.com/in/madanreddy">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Backend+Developer;Learning+Data+Structures+%26+Algos;Python+%26+Data+Science;Open+Source+Contributor" alt="Typing SVG" />
   </a>
+</div>
+
+
+<p align="center">
+  <em>A passionate developer from India exploring Data Science, Web Technologies, and Algorithms.</em>
 </p>
 
 ---
 
-### ⭐ **If you like my work, consider starring my repositories!**
+### 🧐 About Me
+
+- 🔭 I’m currently working on **Web Development projects - backend**
+- 🌱 I’m currently learning **Data Structures & Algorithms (DSA)**
+- 👯 I’m looking to collaborate on **Open Source Python projects**
+- 💬 Ask me about **Python, SQL, and Linux**
+
+---
+
+### 🛠️ Languages and Tools
+*Hover over the icons to see tooltips!*
+
+<table align="center">
+  <tr>
+    <td align="center" width="90">
+      <a href="https://www.python.org" target="_blank">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" title="Python" width="40" height="40" />
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="90">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" title="HTML5" width="40" height="40"/>
+      </a>
+      <br>HTML5
+    </td>
+    <td align="center" width="90">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" title="CSS3" width="40" height="40"/>
+      </a>
+      <br>CSS3
+    </td>
+    <td align="center" width="90">
+      <a href="https://getbootstrap.com" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" title="Bootstrap" width="40" height="40"/>
+      </a>
+      <br>Bootstrap
+    </td>
+    <td align="center" width="90">
+      <a href="https://www.gnu.org/software/bash/" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" title="Bash Scripting" width="40" height="40"/>
+      </a>
+      <br>Bash
+    </td>
+    <td align="center" width="90">
+      <a href="https://www.linux.org/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" title="Linux OS" width="40" height="40"/>
+      </a>
+      <br>Linux
+    </td>
+    <td align="center" width="90">
+      <a href="https://git-scm.com/" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" title="Git Version Control" width="40" height="40"/>
+      </a>
+      <br>Git
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="90">
+      <a href="https://www.mysql.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" title="MySQL" width="40" height="40"/>
+      </a>
+      <br>MySQL
+    </td>
+    <td align="center" width="90">
+      <a href="https://www.postgresql.org" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" title="PostgreSQL" width="40" height="40"/>
+      </a>
+      <br>Postgres
+    </td>
+    <td align="center" width="90">
+      <a href="https://www.mongodb.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" title="MongoDB" width="40" height="40"/>
+      </a>
+      <br>MongoDB
+    </td>
+    <td align="center" width="90">
+      <a href="https://cloud.google.com" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" title="Google Cloud Platform" width="40" height="40"/>
+      </a>
+      <br>GCP
+    </td>
+    <td align="center" width="90">
+      <a href="https://grafana.com" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" title="Grafana" width="40" height="40"/>
+      </a>
+      <br>Grafana
+    </td>
+    <td align="center" width="90">
+      <a href="https://postman.com" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" title="Postman API" width="40" height="40"/>
+      </a>
+      <br>Postman
+    </td>
+    <td align="center" width="90">
+      <a href="https://leetcode.com/" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="leetcode" title="DSA on LeetCode" width="40" height="40"/>
+      </a>
+      <br>DSA
+    </td>
+  </tr>
+</table>
+
+**Data Science & Visualization:**
+
+<p align="center">
+  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" title="Pandas" width="40" height="40"/></a>&nbsp;
+  <a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" title="Scikit Learn" width="40" height="40"/></a>&nbsp;
+  <a href="https://seaborn.pydata.org/" target="_blank"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" title="Seaborn" width="40" height="40"/></a>&nbsp;
+  <a href="https://opencv.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" title="OpenCV" width="40" height="40"/></a>&nbsp;
+  <a href="https://www.chartjs.org" target="_blank"><img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" title="ChartJS" width="40" height="40"/></a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+
+<div align="center">
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=madanreddy6&theme=react&hide_border=true&background=0D1117" alt="streak" />
+</div>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=madanreddy6&label=Profile%20Views&color=0e75b6&style=flat" alt="views" />
+</p>
